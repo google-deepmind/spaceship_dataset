@@ -4,7 +4,7 @@ This README describes the dataset used in the following publication:
 Hamrick, J. B., Ballard, A. J., Pascanu, R., Vinyals, O., Heess, N., &
 Battaglia, P. W. (2017). Metacontrol for Adaptive Imagination-Based
 Optimization. In Proceedings of the 5th International Conference on Learning
-Representations (ICLR 2017).
+Representations (ICLR 2017), available on [openreview](https://openreview.net/pdf?id=Bk8BvDqex).
 
 This repository contains the following CSV files, two for each of the five
 datasets corresponding to different numbers of planets:
